@@ -3,11 +3,11 @@
 	padding: 0;
 }
 .carousel-caption{
-	min-width: 250px;
+	
 	display: block;
 	border-radius: 2px;
 	font-size: small;
-}
-.item active{
-	border: 1px;
+	width: 40%;
+    height: 40%;
+   
 }
